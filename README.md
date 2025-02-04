@@ -1,4 +1,4 @@
-# Ollama OpenAI API Proxy
+# 02u6: Ollama OpenAI API Proxy
 
 This is a simple proxy server that translates OpenAI API requests to Ollama API requests, allowing you to use Ollama models with tools that expect OpenAI's API format.
 
@@ -12,8 +12,8 @@ Wrote this to use local models with [cursor.ai](https://www.cursor.com/).
 ## Installation
 
 ```bash
-git clone [repository-url]
-cd ollama-openai-proxy
+git clone https://github.com/t3nsed/02u6
+cd 02u6
 go build
 ```
 
